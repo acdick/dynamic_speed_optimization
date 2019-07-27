@@ -102,3 +102,25 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Logs and databases 
+*.log
+*.sql
+*.sqlite
+*.json
+*.pkl
+*.db
+*.csv
+*.pdf
+
+# OS generated files 
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# config file
+config.py
