@@ -111,7 +111,6 @@ venv.bak/
 *.pkl
 *.db
 *.csv
-*.pdf
 
 # OS generated files 
 .DS_Store
