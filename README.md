@@ -6,27 +6,18 @@ MODELING SHIP PERFORMANCE CURVES TO REDUCE FUEL CONSUMPTION
 
 Total fuel costs for the global commercial maritime shipping industry were approximately $100 billion in 2018. Emissions regulations, imposed by the International Maritime Organization, are expected to increase fuel costs by $24 billion when they take effect in 2020. Researchers are thus investigating statistical approaches to estimate fuel consumption based on ship speed.
 
-Startups like Nautilus Labs are introducing artificial intelligence solutions to reduce ship fuel consumption with dynamic speed optimization. By gathering data about the required shipment time for a delivery, the performance of a ship's propulsion system and the environmental conditions along the route, machine learning models can chart the tradeoff between speed and fuel costs.
+Startups like Nautilus Labs are introducing artificial intelligence solutions to reduce ship fuel consumption with dynamic speed optimization. By gathering data about the required shipment time for a delivery, the performance of a ship’s propulsion system and the environmental conditions along the route, machine learning models can chart the tradeoff between fuel costs and speed.
 
-Let's use time series data streams from ship sensors and weather records to train our own predictive regression models. With these models, we can generate ship performance curves that predict fuel consumption over a range of operating conditions. Finally, we can verify the reliability of our sensor data, which are prone to drift, by checking for stationarity over time.
+Let’s use time series data streams from ship sensors and weather records to train our own predictive regression models. With these models, we can generate ship performance curves that predict fuel consumption over a range of operating conditions. Finally, we can verify the reliability of our sensor data readings, which are prone to drift, by checking for stationarity over time.
 
-## Repository Contents
-
-* [Project Features](#project-features)
-* [Data Products](#data-products)
-* [Source Code](#source-code)
-* [Output Results](#output-results)
-* [Contribute](#contribute)
+[Continue reading the full story curated by Towards Data Science, a Medium publication...](https://towardsdatascience.com/dynamic-speed-optimization-bcd9810900a?source=friends_link&sk=e6c9ec5cc593c64ffde5292f69443074)
 
 ## Project Features
 MACHINE LEARNING
 
-## Data Products
-PANDAS
-
-## Source Code
-
-## Output Results
+<p align="center">
+  <img src="/img/Commercial_Shipping.png" width="400" title="Commercial Shipping">
+</p>
 
 ## Contribute
 
@@ -37,7 +28,8 @@ PANDAS
 * [Scholar](https://scholar.google.com/citations?user=eMO88ogAAAAJ&hl=en)
 
 **Acknowledgements**
-* Dataset by Nautilus Labs
+* Logo by [Anker Crew Insurance](https://www.ankercrew.com)
+* Data set by Nautilus Labs
 
 **License**
 * [MIT License](https://github.com/acdick/dynamic_speed_optimization/blob/master/LICENSE)
