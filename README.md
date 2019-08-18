@@ -16,7 +16,7 @@ Let’s use time series data streams from ship sensors and weather records to tr
 MACHINE LEARNING
 
 <p align="center">
-  <img src="/img/Commercial_Shipping.png" width="400" title="Commercial Shipping">
+  <img src="/img/Commercial_Shipping.jpg" width="400" title="Commercial Shipping">
 </p>
 
 ## Contribute
