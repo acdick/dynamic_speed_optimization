@@ -2,7 +2,7 @@ REGRESSION MODELING
 # Dynamic Speed Optimization
 MODELING SHIP PERFORMANCE CURVES TO REDUCE FUEL CONSUMPTION
 
-[Browse the pitch deck...](Nautilus_Labs_Dynamic_Speed_Optimization.pdf)
+[Browse the pitch deck...](Ship_Performance.pdf)
 
 Total fuel costs for the global commercial maritime shipping industry were approximately $100 billion in 2018. Emissions regulations, imposed by the International Maritime Organization, are expected to increase fuel costs by $24 billion when they take effect in 2020. Researchers are thus investigating statistical approaches to estimate fuel consumption based on ship speed.
 
