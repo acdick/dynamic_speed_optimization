@@ -10,7 +10,7 @@ The industry is introducing artificial intelligence solutions to reduce ship fue
 
 Let’s use time series data streams from ship sensors and weather records to train our own predictive regression models. With these models, we can generate ship performance curves that predict fuel consumption over a range of operating conditions. Finally, we can verify the reliability of our sensor data readings, which are prone to drift, by checking for stationarity over time.
 
-[Continue reading the full story curated by Towards Data Science, a Medium publication...](https://towardsdatascience.com/dynamic-speed-optimization-bcd9810900a?source=friends_link&sk=e6c9ec5cc593c64ffde5292f69443074)
+[Continue reading the full story curated by Cloud Forest, a Medium publication...](https://medium.com/cloud-forest/dynamic-speed-optimization-bcd9810900a?sk=e6c9ec5cc593c64ffde5292f69443074)
 
 ## Project Features
 MACHINE LEARNING
